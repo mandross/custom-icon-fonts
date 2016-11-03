@@ -1,11 +1,11 @@
 @font-face {
   font-family: 'dev-hobby';
-  src: url('dev-hobby.eot?8905329');
-  src: url('dev-hobby.eot?8905329#iefix') format('embedded-opentype'),
-       url('dev-hobby.woff2?8905329') format('woff2'),
-       url('dev-hobby.woff?8905329') format('woff'),
-       url('dev-hobby.ttf?8905329') format('truetype'),
-       url('dev-hobby.svg?8905329#dev-hobby') format('svg');
+  src: url('dev-hobby.eot?55407681');
+  src: url('dev-hobby.eot?55407681#iefix') format('embedded-opentype'),
+       url('dev-hobby.woff2?55407681') format('woff2'),
+       url('dev-hobby.woff?55407681') format('woff'),
+       url('dev-hobby.ttf?55407681') format('truetype'),
+       url('dev-hobby.svg?55407681#dev-hobby') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -31,11 +31,12 @@
 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
 }
 
-.icon-deathstar:before { content: '\e801'; }
-.icon-vikings:before { content: '\e802'; }
 .icon-globe:before { content: '\e803'; }
 .icon-dance:before { content: '\e804'; }
 .icon-bike:before { content: '\e805'; }
 .icon-train:before { content: '\e806'; }
+.icon-death-star:before { content: '\e807'; }
+.icon-viking-ship:before { content: '\e808'; }
